@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: br.com.zup.ednelson
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle
+features: [annotation-api, app-name, data, data-jpa, gradle, hibernate-validator, http-client, jackson-xml, java, java-application, jdbc-hikari, junit, logback, mockito, mysql, netty-server, readme, shade, testcontainers, yaml]
